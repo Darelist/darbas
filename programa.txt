@@ -1,0 +1,6 @@
+int x;
+cout<<"ivesk savo skaicius";
+cin>>x;
+cout<<x<<" + "<<x<<" = "<< x+x<<endl;
+system(pause);
+return 0;
