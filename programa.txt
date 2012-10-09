@@ -1,6 +1,8 @@
-int x;
-cout<<"ivesk savo skaicius";
+int x, y;
+cout<<"ivesk savo pirma skaiciu";
 cin>>x;
-cout<<x<<" + "<<x<<" = "<< x+x<<endl;
+cout<<"ivesk savo antra skaiciu";
+cin>>y;
+cout<<x<<" + "<<y<<" = "<< x+y<<endl;
 system(pause);
 return 0;
