@@ -6,9 +6,9 @@ cin>>y;
 cout<<x<<" + "<<y<<" = "<< x+y<<endl;
 
 
-cout<<"ivesk savo pirma skaiciu(daugybai)";
+cout<<"Ivesk savo pirma skaiciu(daugybai)";
 cin>>k;
-cout<<"ivesk savo pirma skaiciu(daugybai)";
+cout<<"Ivesk savo pirma skaiciu(daugybai)";
 cin>>l;
 cout<<k<<" + "<<l<<" = "<< k*l<<endl;
 system(pause);
