@@ -1,8 +1,13 @@
-int x, y;
+int x, y,j,k;
 cout<<"ivesk savo pirma skaiciu";
 cin>>x;
 cout<<"ivesk savo antra skaiciu";
 cin>>y;
 cout<<x<<" + "<<y<<" = "<< x+y<<endl;
+cout<<"ivesk savo pirma skaiciu atimciai";
+cin>>j;
+cout<<"ivesk savo antra skaiciu atimciai";
+cin>>k;
+cout<<j<<" + "<<k<<" = "<< j-k<<endl;
 system(pause);
 return 0;
