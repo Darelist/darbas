@@ -1,8 +1,15 @@
-int x, y;
+int x, y, k, l;
 cout<<"ivesk savo pirma skaiciu";
 cin>>x;
 cout<<"ivesk savo antra skaiciu";
 cin>>y;
 cout<<x<<" + "<<y<<" = "<< x+y<<endl;
+
+
+cout<<"ivesk savo pirma skaiciu(daugybai)";
+cin>>k;
+cout<<"ivesk savo pirma skaiciu(daugybai)";
+cin>>l;
+cout<<k<<" + "<<l<<" = "<< k*l<<endl;
 system(pause);
 return 0;
