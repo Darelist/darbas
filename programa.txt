@@ -1,4 +1,4 @@
-int x, y;
+int x, y,q,w;
 cout<<"ivesk savo pirma skaiciu";
 cin>>x;
 cout<<"ivesk savo antra skaiciu";
@@ -6,3 +6,8 @@ cin>>y;
 cout<<x<<" + "<<y<<" = "<< x+y<<endl;
 system(pause);
 return 0;
+cout<<"ivesk savo pirma skaiciu dalybai";
+cin>>q;
+cout<<"ivesk savo antra skaiciu dalybai";
+cin>>w;
+cout<<q<<" + "<<w<<" = "<< q/w<<endl;
